@@ -1,0 +1,329 @@
+{
+        "vertedero": {
+            "caudal": 13915,
+            "nivel": 13916,
+            "temperatura": 13917,
+            "conductividad": 13910,
+            "ph": 13913,
+            "turbiedad_alta": 13911,
+            "turbiedad_baja": 13912,
+            "actuador": 13906,
+            "posicion":13903,
+            "tipo":13904
+        },
+        "floculadores":{
+            "turbiedad":13920
+        },
+        "floculador_1": {
+            "actuador": 13944,
+            "posicion":13941,
+            "tipo":13942
+        },
+        "floculador_2": {
+            "actuador": 13970,
+            "posicion":13967,
+            "tipo":13968
+        },
+        "floculador_3": {
+            "actuador": 13996,
+            "posicion":13993,
+            "tipo":13994
+        },
+        "floculador_4": {
+            "actuador": 14022,
+            "posicion":14019,
+            "tipo":14020
+        },
+        "sedimentador_1": {
+            "actuador": 14049,
+            "posicion":14046,
+            "tipo":14047
+        },
+        "sedimentador_2": {
+            "actuador": 14075,
+            "posicion":14072,
+            "tipo":14073
+        },
+        "sedimentador_3": {
+            "actuador": 14101,
+            "posicion":14098,
+            "tipo":14099
+        },
+        "filtro_ext_1": {
+            "efluente": 8424,
+            "posicion_efl":8421,
+            "entrada": 8450,
+            "posicion_ent":8447,
+            "nivel": 8462,
+            "turbiedad": 8456
+        },
+        "filtro_ext_2": {
+            "efluente": 8490,
+            "posicion_efl":8487,
+            "entrada": 8516,
+            "posicion_ent":8513,
+            "nivel": 8524,
+            "turbiedad": 8520
+        },
+        "filtro_ext_3": {
+            "efluente": 8549,
+            "posicion_efl":8546,
+            "entrada": 8575,
+            "posicion_ent":8572,
+            "nivel": 8583,
+            "turbiedad": 8579
+        },
+        "filtro_ext_4": {
+            "efluente": 8608,
+            "posicion_efl":8605,
+            "entrada": 8634,
+            "posicion_ent":8631,
+            "nivel": 8642,
+            "turbiedad": 8638
+        },
+        "filtro_ext_5": {
+            "efluente": 8667,
+            "posicion_efl":8664,
+            "entrada": 8693,
+            "posicion_ent":8690,
+            "nivel": 8701,
+            "turbiedad": 8697
+        },
+        "filtros_interiores":{
+            "nivel":14107
+        },
+        "filtro_int_1": {
+            "tipo_desague":14129,
+            "tipo_efld":14154,
+            "tipo_efli":14179,
+            "tipo_ent":14204,
+            "tipo_ld":14229,
+            "tipo_li":14254,
+            "tipo_sd":14279,
+            "tipo_si":14304,
+
+            "efluente_d": 14156,
+            "posicion_efld":14153,
+
+            "efluente_i": 14181,
+            "posicion_efli":14178,
+
+            "entrada": 14206,
+            "posicion_ent":14203,
+
+            "desague": 14131,
+            "posicion_desague":14128,
+
+            "lavado_d": 14231,
+            "posicion_ld":14228,
+
+            "lavado_i": 14256,
+            "posicion_li":14253,
+
+            "soplador_d": 14281,
+            "posicion_sd":14278,
+
+            "soplador_i": 14306,
+            "posicion_si":14303,
+
+            "nivel": 14326,
+            "turbiedad": 14310
+        },
+        "filtro_int_2": {
+            "tipo_desague":14371,
+            "tipo_efld":14396,
+            "tipo_efli":14421,
+            "tipo_ent":14446,
+            "tipo_ld":14471,
+            "tipo_li":14496,
+            "tipo_sd":14521,
+            "tipo_si":14546,
+            "efluente_d": 14398,
+            "posicion_efld":14395,
+            "efluente_i": 14423,
+            "posicion_efli":14420,
+            "entrada": 14448,
+            "posicion_ent":14445,
+            "desague": 14373,
+            "posicion_desague":14370,
+            "lavado_d": 14473,
+            "posicion_ld":14470,
+            "lavado_i": 14498,
+            "posicion_li":14495,
+            "soplador_d": 14523,
+            "posicion_sd":14520,
+            "soplador_i": 14548,
+            "posicion_si":14545,
+            "nivel": 14568,
+            "turbiedad": 14552
+        },
+        "filtro_int_3": {
+            "tipo_desague":14613,
+            "tipo_efld":14638,
+            "tipo_efli":14663,
+            "tipo_ent":14688,
+            "tipo_ld":14713,
+            "tipo_li":14738,
+            "tipo_sd":14763,
+            "tipo_si":14788,
+            "efluente_d": 14640,
+            "posicion_efld":14637,
+            "efluente_i": 14665,
+            "posicion_efli":14662,
+            "entrada": 14690,
+            "posicion_ent":14687,
+            "desague": 14615,
+            "posicion_desague":14612,
+            "lavado_d": 14715,
+            "posicion_ld":14712,
+            "lavado_i": 14740,
+            "posicion_li":14737,
+            "soplador_d": 14765,
+            "posicion_sd":14762,
+            "soplador_i": 14790,
+            "posicion_si":14787,
+            "nivel": 14810,
+            "turbiedad": 14794
+        },
+        "filtro_int_4": {
+            "tipo_desague":14855,
+            "tipo_efld":14880,
+            "tipo_efli":14905,
+            "tipo_ent":14930,
+            "tipo_ld":14955,
+            "tipo_li":14980,
+            "tipo_sd":15005,
+            "tipo_si":15030,
+            "efluente_d": 14882,
+            "posicion_efld":14879,
+            "efluente_i": 14907,
+            "posicion_efli":14904,
+            "entrada": 14932,
+            "posicion_ent":14929,
+            "desague": 14857,
+            "posicion_desague":14854,
+            "lavado_d": 14957,
+            "posicion_ld":14954,
+            "lavado_i": 14982,
+            "posicion_li":14979,
+            "soplador_d": 15007,
+            "posicion_sd":15004,
+            "soplador_i": 15032,
+            "posicion_si":15029,
+            "nivel": 15052,
+            "turbiedad": 15036
+        },
+        "filtro_int_5": {
+            "tipo_desague":15097,
+            "tipo_efld":15122,
+            "tipo_efli":15147,
+            "tipo_ent":15172,
+            "tipo_ld":15197,
+            "tipo_li":15222,
+            "tipo_sd":15247,
+            "tipo_si":15272,
+            "efluente_d": 15124,
+            "posicion_efld":15121,
+            "efluente_i": 15149,
+            "posicion_efli":15146,
+            "entrada": 15174,
+            "posicion_ent":15171,
+            "desague": 15099,
+            "posicion_desague":15096,
+            "lavado_d": 15199,
+            "posicion_ld":15196,
+            "lavado_i": 15224,
+            "posicion_li":15221,
+            "soplador_d": 15249,
+            "posicion_sd":15246,
+            "soplador_i": 15274,
+            "posicion_si":15271,
+            "nivel": 15294,
+            "turbiedad": 15278
+        },
+        "filtro_int_6": {
+            "tipo_desague":15339,
+            "tipo_efld":15364,
+            "tipo_efli":15389,
+            "tipo_ent":15414,
+            "tipo_ld":15439,
+            "tipo_li":15464,
+            "tipo_sd":15489,
+            "tipo_si":15514,
+            "efluente_d": 15366,
+            "posicion_efld":15363,
+            "efluente_i": 15391,
+            "posicion_efli":15388,
+            "entrada": 15416,
+            "posicion_ent":15413,
+            "desague": 15341,
+            "posicion_desague":15338,
+            "lavado_d": 15441,
+            "posicion_ld":15438,
+            "lavado_i": 15466,
+            "posicion_li":15463,
+            "soplador_d": 15491,
+            "posicion_sd":15488,
+            "soplador_i": 15516,
+            "posicion_si":15513,
+            "nivel": 15536,
+            "turbiedad": 15520
+        },
+        "tanques_uno":{
+            "cloro":15639,
+            "ph":15640,
+            "nivel":15642
+        },
+        "tanques_dos":{
+            "cloro":15645,
+            "ph":15646,
+            "nivel":15648
+        },
+        "tanques_tres":{
+            "cloro":15651,
+            "ph":15652,
+            "nivel":15654
+        },
+        "tanques_cuatro":{
+            "cloro":15657,
+            "ph":15658,
+            "nivel":15660
+        },
+        "tanques_cinco":{
+            "cloro":15663,
+            "ph":15664,
+            "nivel":15666
+        },
+        "tanques_salidas":{
+            "uno":15584,
+            "pos_uno":15581,
+            "tipo_uno":15582,
+            "dos":15609,
+            "pos_dos":15606,
+            "tipo_dos":15607,
+            "tres":15634,
+            "pos_tres":15631,
+            "tipo_tres":15632
+        },
+        "tanque_exterior":{
+            "actuador":15690,
+            "pos_actuador":15687,
+            "tipo_actuador":15688,
+            "bomba_out1":15694,
+            "bomba_out2":15695,
+            "reset":15696,
+            "set":15697,
+            "nivel":15699
+        },
+        "aire":{
+            "actuador":15723,
+            "pos_actuador":15720,
+            "tipo_actuador":15721,
+            "control_uno":15727,
+            "control_dos":15728,
+            "control_tres":15729
+
+        }
+
+
+    }

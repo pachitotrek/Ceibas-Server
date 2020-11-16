@@ -1,0 +1,21 @@
+Name	ID
+Global.1 Vertedero Entrada.ActDesague.Graficas.FP_Switch	6796
+Global.1 Vertedero Entrada.ActDesague.Registers.Commands.BlockCommand	6807
+Global.1 Vertedero Entrada.ActDesague.Registers.Commands.OperateACT	6812
+Global.1 Vertedero Entrada.ActDesague.Registers.Commands.Tipo	6814
+Global.1 Vertedero Entrada.ActDesague.Registers.Status.Status	
+	
+	
+
+
+Global.5 Filtros Interiores.Filtro Interior 1.Registers.Status	7257
+Global.5 Filtros Interiores.Filtro Interior 2.Registers.Status	7499
+Global.5 Filtros Interiores.Filtro Interior 3.Registers.Status	7741
+Global.5 Filtros Interiores.Filtro Interior 4.Registers.Status	7983
+Global.5 Filtros Interiores.Filtro Interior 5.Graficas.FP_Switch	8220
+Global.5 Filtros Interiores.Filtro Interior 5.Registers.Status	8225
+Global.5 Filtros Interiores.Filtro Interior 6.Registers.Status	8467
+
+
+
+
